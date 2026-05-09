@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "skyfish",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a80c8e4e-2df7-4e6a-9d21-00da99c34356",
+			"database_name": "skyfish-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
